@@ -361,6 +361,10 @@ p.mathjax-block,
   border-bottom: none;
 }
 
+.md-inline-math script {
+  color: #81b1db;
+}
+
 footer.ty-footer {
   border-color: #656565;
 }
